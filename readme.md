@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full Stack Web Developer</h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Adiaparmar&color=0e75b6)
-//<img align="right" width="400" src="https://media1.giphy.com/media/TPl5N4Ci49ZQY/giphy.gif?cid=ecf05e47za80g6ltso1o7f71jkoak398c5qnbpb3ckqos3vf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 
 🌱 I’m currently learning NextJS and working on Projects
 
