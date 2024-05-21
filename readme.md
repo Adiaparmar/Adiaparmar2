@@ -17,7 +17,7 @@
 ## LANGUAGES & TOOLS
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,c,codepen,css,cloudflare,figma,firebase,gcp,npm,tailwind,discord,express,html,js,mongodb,mysql,nodejs,py,react,vercel,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,CSS,js,bootstrap,git,github,express,nodejs,mysql,mongodb,tailwind,react,npm,firebase,figma,cloudflare,discord,c,py,gcp,vercel,vscode,codepen," />
   </a>
 </p>
 
