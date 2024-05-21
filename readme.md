@@ -2,11 +2,11 @@
 <h3 align="center">Aspiring Full Stack Web Developer</h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Adiaparmar&color=0e75b6)
-<img align="right" width="400" src="https://media1.giphy.com/media/TPl5N4Ci49ZQY/giphy.gif?cid=ecf05e47za80g6ltso1o7f71jkoak398c5qnbpb3ckqos3vf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+//<img align="right" width="400" src="https://media1.giphy.com/media/TPl5N4Ci49ZQY/giphy.gif?cid=ecf05e47za80g6ltso1o7f71jkoak398c5qnbpb3ckqos3vf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 🌱 I’m currently learning NextJS and working on Projects
 
-💬 Ask me about Web Developement & MERN Stack
+💬 Ask me about Web Development & MERN Stack
 
 📫 Reach me out here - adiaparmar@gmail.com
 
@@ -17,7 +17,7 @@
 ## LANGUAGES & TOOLS
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,c,codepen,css,discord,express,html,js,mongodb,mysql,nodejs,postman,py,react,vercel,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,c,codepen,css,cloudflare,figma,firebase,gcp,npm,tailwind,discord,express,html,js,mongodb,mysql,nodejs,py,react,vercel,vscode" />
   </a>
 </p>
 
