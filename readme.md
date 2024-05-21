@@ -1,7 +1,7 @@
 <h1 align="center"> Hey, Its Aditya Kumar Singh <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-<h3 align="center">Aspiring Full STack Web Developer</h3>
+<h3 align="center">Aspiring Full Stack Web Developer</h3>
 
-![GitHub Views](https://komarev.com/ghpvc/?username=its-aman-yadav&color=0e75b6)
+![GitHub Views](https://komarev.com/ghpvc/?username=Adiaparmar&color=0e75b6)
 <img align="right" width="400" src="https://media1.giphy.com/media/TPl5N4Ci49ZQY/giphy.gif?cid=ecf05e47za80g6ltso1o7f71jkoak398c5qnbpb3ckqos3vf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 🌱 I’m currently learning NextJS and working on Projects
@@ -17,7 +17,7 @@
 ## LANGUAGES & TOOLS
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,c,codepen,css,discord,express,html,js,mongodb,mysql,nodejs,ps,postman,pr,py,react,vercel,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,c,codepen,css,discord,express,html,js,mongodb,mysql,nodejs,postman,py,react,vercel,vscode" />
   </a>
 </p>
 
@@ -43,9 +43,9 @@
 
 
 ## 📊 GitHub Activity
-| ![Adiaparmar github stats](https://github-readme-stats.vercel.app/api?username=its-aman-yadav&show_icons=true&theme=highcontrast) | ![Aman GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=its-aman-yadav&theme=highcontrast)                                                                                                           |
+| ![Adiaparmar github stats](https://github-readme-stats.vercel.app/api?username=Adiaparmar&show_icons=true&theme=highcontrast) | ![Adiaparmar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adiaparmar&theme=highcontrast)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-aman-yadav&langs_count=8&theme=highcontrast&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=its-aman-yadav&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=highcontrast) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adiaparmar&langs_count=8&theme=highcontrast&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Adiaparmar&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=highcontrast) |
 
 
 ## 📚 My Education Status
